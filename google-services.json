@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450008995973",
+    "project_id": "smarthealthcareapp-6e471",
+    "storage_bucket": "smarthealthcareapp-6e471.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450008995973:android:6dfe24217c3016779771ec",
+        "android_client_info": {
+          "package_name": "com.SMC.smarthealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450008995973-2r8hn06s874kp5icjnha36gcf6tdgdi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SMC.smarthealthcare",
+            "certificate_hash": "c636bfc079daa1ea425494bb10be82eb0a355348"
+          }
+        },
+        {
+          "client_id": "450008995973-q048r0hnsdvv8h870slnc58mhts8622f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0DbRw1FsgS_3G-Qw6aVWiRGuLPUKkJ-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450008995973-q048r0hnsdvv8h870slnc58mhts8622f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
